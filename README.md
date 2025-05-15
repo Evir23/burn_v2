@@ -70,3 +70,6 @@ epochs - количество эпох
 cd path/to/project
 
 python main.py {path/to/model} {path/to/media}
+
+
+### Проект по YOLOv11n - https://github.com/Evir23/burn
